@@ -1,1 +1,2 @@
-Hello Git and GitHub
+Hello github! 
+This repository contains projects and code written in python!
