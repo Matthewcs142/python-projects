@@ -65,6 +65,14 @@ Eigth commit:
   Description:
    This is a simple gui demonstrating the use of images and icons. 
 
+Ninth commit:
+  Date of commit:
+   10/31/20
+  Files committed:
+   coded_correspondence_my_solutions.ipynb
+  Description:
+   This notebook contains my solutions for a Codecademy Project from Codecademy's Learn Python3 course. This project requried use of python functions to iterate through multiple different lists to solve Cesear Ciphers.
+
 
 Additional Python Projects
 Codecademy Projects
