@@ -56,3 +56,11 @@ Seventh commit:
   Description:
     The mbox files are a python project that was part of the University of Michigan's Python for Everybody, Python Data Structures course offered through the Coursera platform. The class can be found here: https://www.coursera.org/learn/python-data?specialization=python
     For this project, students were provided a data set containing email data and they were asked to open the text file containing the data (mbox-short.txt) and then write python functions that would manipulate and transform that data to slice it up, clean it, and isolate specific sections.
+
+Eigth commit:
+  Date of commit:
+   10/31/20
+  Files committed:
+   tkinter_images_icons.py
+  Description:
+   This is a simple gui demonstrating the use of images and icons. 
