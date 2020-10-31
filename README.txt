@@ -71,7 +71,7 @@ Ninth commit:
   Files committed:
    coded_correspondence_my_solutions.ipynb
   Description:
-   This notebook contains my solutions for a Codecademy Project from Codecademy's Learn Python3 course. This project requried use of python functions to iterate through multiple different lists to solve Cesear Ciphers.
+   This notebook contains my solutions for a Codecademy Project from Codecademy's Learn Python3 course. This project requried use of python functions to iterate through multiple different lists to solve Cesear and Vigenère Ciphers. My solution for the Vigenère cipher is the most complext function in the entire project. That function iterates through multiple lists while keeping track of the index values in each list to solve the cipher. The hardest part of that solution was getting python to iterate through the key phrase properly.
 
 
 Additional Python Projects
