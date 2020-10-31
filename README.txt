@@ -35,3 +35,11 @@ Fifth commit:
   Description:
    This is the first gui I have ever created. It is a small, very basic, gui made with the tkinter libarary as part of a video based coding course posted on YouTube by FreeCodeCamp at this url: https://www.youtube.com/watch?v=YXPyB4XeYLA
    Since the code contained in this file is the for the very first gui I have ever written, and the first time I have ever used the tkinter library, it is not the cleanest code in the world; however, I did use comments to try to make it a bit cleaner than it otherwise would have been.
+
+Sixth commit:
+  Date of commit:
+    10/30/20
+  Files committed:
+    first_calculator.py
+  Description:
+    This is a basic calculator created in python using the tkinter library. The calculator is capable of performing addition, multiplication, subtraction, and addition. Created as part of tkinter course posted on YouTube by FreeCodeCamp at this url: https://www.youtube.com/watch?v=YXPyB4XeYLA 
