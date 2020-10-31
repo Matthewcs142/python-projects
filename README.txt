@@ -64,3 +64,31 @@ Eigth commit:
    tkinter_images_icons.py
   Description:
    This is a simple gui demonstrating the use of images and icons. 
+
+
+Additional Python Projects
+Codecademy Projects
+  Analyze Data with Python Skill Path
+NumPy Syntax 
+	Betty's Bakery
+		https://gist.github.com/b19ba89f9715ffd0a9cd24254bbbaa2b
+Statistics in NumPy 
+	CrunchieMunchies
+		https://gist.github.com/726750640b040123d78206dea11c7c14
+	Election Results
+		https://gist.github.com/a108d2f7ae8a503b079e29438db2e62f
+Introduction to Pandas
+	Petal Power Inventory
+		https://gist.github.com/839c28e99cb8189c6a93096415d1319d
+Aggregates in Pandas
+	A/B Testing for ShoeFly.com
+		https://gist.github.com/0b7fa2620a10ba46d5b27795eaa2294e
+Multiple Tables in Pandas
+	Page Visits Funnel
+		https://gist.github.com/0c27bef3e3fc4fc9899d70619b6cd75f
+
+
+Learn Web Scrapping with BeautifulSoup
+Beautiful Soup
+	Chocolate Scraping with Beautiful Soup
+		https://gist.github.com/b839e13a00c43ca477524d2f5b20d17a
